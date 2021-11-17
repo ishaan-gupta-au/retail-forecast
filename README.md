@@ -1,7 +1,5 @@
 # Retail Forecast Project
 
-Applied exponential smoothing methods and ARIMA modelling techniques to obtain a forecast of turnover in the recreational goods industry in NSW. 
-
-Please visit the link [here](https://ishaan-gupta-au.github.io/retail-forecast/) to view the data analysis. The rmd file is also available for download for your perusal. 
+Applied exponential smoothing methods and ARIMA modelling techniques to obtain a forecast of turnover in the recreational goods industry in NSW. Please visit the link [here](https://ishaan-gupta-au.github.io/retail-forecast/) to view the data analysis.  
 
 Special thanks goes to Professor Rob Hyndman, author of the [Forecasting: Principles and Practice](https://otexts.com/fpp3/) textbook, upon which I based the data analysis. 
